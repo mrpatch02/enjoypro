@@ -1,5 +1,8 @@
 
-�
-�
-6ТЕСТ OTA — связь с GitHub работает��@�
-yandex.auto.media.uma���/TEST'Проверка обновлятора"Jhttps://github.com/mrpatch02/enjoypro/releases/download/v1/placeholder.apk(��@2hЕсли вы это видите — магнитола читает updates.pb с вашего GitHub.
+�
+�
+Яндекс Музыка���
+�
+yandex.auto.media.uma
+���
+2.2Музыка"Ehttps://github.com/mrpatch02/enjoypro/releases/download/v1/YapUMA.apk(��2тестовая сборка*
