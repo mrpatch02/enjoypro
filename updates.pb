@@ -1,5 +1,5 @@
 
-�	
+�	
 �
 
 ТВ (CTV)׬��
@@ -15,6 +15,6 @@
 �
 Интерфейс (SystemUI)����
 yandex.auto.systemui���2.2Интерфейс (SystemUI)"Ihttps://raw.githubusercontent.com/mrpatch02/enjoypro/main/YapSystemUI.apk(���2UВсплываюющая регулировка громкости разговора*
-�
-Обновления԰��
-yandex.auto.updater���3.5Обновления"Hhttps://raw.githubusercontent.com/mrpatch02/enjoypro/main/YapUpdater.apk(԰�2dВерсия 3.5 справление всплывающего окна и красной точки
+�
+Обновления԰��
+yandex.auto.updater���3.5Обновления"Hhttps://raw.githubusercontent.com/mrpatch02/enjoypro/main/YapUpdater.apk(԰�2fВерсия 3.5 Исправление всплывающего окна и красной точки
