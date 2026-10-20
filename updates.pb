@@ -6,9 +6,9 @@
 limehd.ru.ctvshka	3.5.0
 ТВ (CTV)"Ahttps://raw.githubusercontent.com/mrpatch02/enjoypro/main/CTV.apk(׬�2[останавливает воспроизведение, при пуске голосом*
 �
-HAL (YapHAL)��b�
+HAL (YapHAL)��b�
 ru.yandex.yap.hal.services
-�S2.0.0HAL (YapHAL)"Dhttps://raw.githubusercontent.com/mrpatch02/enjoypro/main/YapHAL.apk(��b2AЕще одна правка воспроизведения с Bt*
+�S2.0.0HAL (YapHAL)"Dhttps://raw.githubusercontent.com/mrpatch02/enjoypro/main/YapHAL.apk(��b2AЕще одна правка воспроизведения с Bt*
 �
 Настройки����
 yandex.auto.settings���2.2Настройки"Ihttps://raw.githubusercontent.com/mrpatch02/enjoypro/main/YapSettings.apk(���2'4 источника громкости*
